@@ -1,33 +1,48 @@
-# Spider-Man Multiverse Layout 🚀🕷️
+# Spider-Man Multiverse Layout
 
-Projeto desenvolvido como desafio da Digital Innovation One (DIO), com foco em efeitos visuais, animações CSS e composição de layout avançado.
+[![Status](https://img.shields.io/badge/status-online-brightgreen)](https://spiderman-multiverse-layout-dio.vercel.app/index.html)
+[![Deploy](https://img.shields.io/badge/deploy-vercel-black?logo=vercel)](https://spiderman-multiverse-layout-dio.vercel.app/index.html)
+![Screenshot](https://github.com/user-attachments/assets/ca99ecf2-61b5-4c2e-a522-a3f387fccea0)
 
-## 🎯 Objetivo
+Projeto desenvolvido como parte do bootcamp **"Ri Happy - Front-end do Zero"** na **DIO (Digital Innovation One)**.
 
-Construir um layout interativo inspirado no multiverso do Spider-Man, explorando:
+---
 
-- Animações CSS
-- Posicionamento e sobreposição de elementos
-- Efeitos visuais modernos
-- Estruturação semântica com HTML e CSS
+## Descrição
 
-## 🚀 Tecnologias Utilizadas
+Este projeto apresenta um layout temático baseado no universo do **Spider-Man**, explorando técnicas modernas de **CSS**, **JavaScript** e **HTML** para a construção de um layout rico em efeitos visuais, transições e animações.
 
-- HTML5
-- CSS3 (Animações, Transições, Flexbox)
-- JavaScript (efeitos básicos)
+### Objetivos principais:
 
-## 📸 Prévia Visual
+- Explorar efeitos visuais com foco em performance e estética.
+- Aplicar sobreposição de blocos e camadas.
+- Desenvolver um layout responsivo e adaptativo.
+- Trabalhar conceitos de posicionamento e interatividade.
 
+---
 
+## Deploy
 
-## 📂 Como Executar Localmente
+- 🔗 **Link de acesso:**  
+[https://spiderman-multiverse-layout-dio.vercel.app/index.html](https://spiderman-multiverse-layout-dio.vercel.app/index.html)
 
-1. Clone o repositório
-2. Abra o projeto em sua IDE de preferência
-3. Utilize a extensão Live Server (ou abra o arquivo `index.html` no navegador)
+---
 
-## 📚 Fonte Original do Desafio
+## Tecnologias utilizadas
 
-[Repositório da Expert - Michele Ambrosio](https://github.com/micheleambrosio/spider-man-multiverses-dio)
+| Tecnologia | Finalidade |
+| ----------- | ----------- |
+| HTML5 | Estruturação da página |
+| CSS3 | Estilização, animações e efeitos visuais |
+| JavaScript | Pequenas interações e manipulação de eventos |
+| Vercel | Hospedagem do projeto |
 
+---
+## Código-fonte original do curso
+
+Todo o código-base utilizado como referência está disponível no repositório da instrutora:
+
+- **Repositório original:**  
+[https://github.com/micheleambrosio/spider-man-multiverses-dio](https://github.com/micheleambrosio/spider-man-multiverses-dio)
+
+---
